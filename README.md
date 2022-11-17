@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @VictorTiezzi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-VictorTiezzi/VictorTiezzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Victor Tiezzi Henriques ( @VictorTiezzi )
+- 👀 I’m interested in Veicle Route Problem, Python and Go (Golang)
+- 🌱 I’m currently learning Go (Golang)
+- 📫 reach me by Email: victor.controle@gmail.com
